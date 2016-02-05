@@ -1,0 +1,28 @@
+name: Spirit Ink
+favicon: null
+layout_spectrum: 0.9323243305552751
+typography_spectrum: 0.31365426047705114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.48424045485444367
+  lightness: 0.5624135418329388
+  saturation: 0.024570046458393335
+  rhythmicContrast: 0.0632199498359114
+purpose: []
