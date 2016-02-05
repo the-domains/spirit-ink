@@ -1,4 +1,4 @@
-name: Spirit Ink
+name: 'Spirit Ink | Soulful Stationery + Mindful Musings'
 favicon: null
 layout_spectrum: 0.9323243305552751
 typography_spectrum: 0.74047
@@ -22,8 +22,8 @@ color:
     - '#f5cacc'
     - '#41413f'
     - '#6d6d6d'
-  brandStrength: 0.48424045485444367
-  lightness: 0.5624135418329388
-  saturation: 0.024570046458393335
-  rhythmicContrast: 0.0632199498359114
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
